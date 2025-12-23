@@ -14,7 +14,8 @@ This guide provides a detailed, step-by-step process for rooting modern Samsung 
   - [System-as-Root Devices](/README.md#critical-note-for-system-as-root-devices)
       - [What This Means](/README.md#what-this-means)
   - [Step-by-Step Guide](/README.md#step-by-step-guide)
-      - [Step 1: Enable OEM Unlocking](/README.md#step-1-enable-oem-unlocking)
+      - [Step 1: Enable OEM Unlocking](/README.md#step
+      - -1-enable-oem-unlocking)
       - [Step 2: Download the Official Firmware](/README.md#step-2-download-the-official-firmware)
       - [Step 3: Unlock the Bootloader](/README.md#step-3-unlock-the-bootloader)
       - [Step 4: Create the Patched AP File](/README.md#step-4-create-the-patched-ap-file)
